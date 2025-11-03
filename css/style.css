@@ -1,1 +1,16 @@
- /* CSS to be added later */
+h1 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+.navybar {
+    
+    color: white;
+    text-align: right;
+    background-color: navy;
+}
+.navybar a:link { 
+    color: white;
+}
+.navybar a:visited { 
+    color: white;
+}
