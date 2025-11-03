@@ -14,3 +14,9 @@ h1 {
 .navybar a:visited { 
     color: white;
 }
+
+.form-center {
+    width:300px;
+    margin:50px auto;
+    
+}
