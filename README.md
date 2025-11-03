@@ -11,3 +11,5 @@ Ideas for future improvement:
     1.area to upload photos 
     2.email comments after submission
     3.positive and negative reaction buttons
+
+Visit the page at: https://lukehoncoop-lgtm.github.io/web/Welcome.html
