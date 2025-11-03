@@ -1,0 +1,7 @@
+1. As a user I want to be able to view Blythe's photos.
+
+2. As a user I want to be able to submit comments so i can submit feedback.
+
+3. As a user I want to know more about the photographer to be more informed about them.
+
+4. As the administrator I want to recieve my comments through formspree.io so that I may review them.
